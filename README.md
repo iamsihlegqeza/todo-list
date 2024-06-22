@@ -1,7 +1,3 @@
-Certainly! Here's a README template for your GitHub repository:
-
----
-
 # Todo List App
 
 This is a simple Todo List web application built using HTML, CSS, and JavaScript.
